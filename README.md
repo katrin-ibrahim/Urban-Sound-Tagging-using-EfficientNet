@@ -14,7 +14,7 @@ The two notebooks available are for the ESC-50/ESC-10 dataset and the UrbanSound
 
 ## Authors
 
-- [@katrinibrahim](https://github.com/katrin-ibrahim)
+- [@katrin-ibrahim](https://github.com/katrin-ibrahim)
 
 ## Acknowledgements
 - The model architecture was adapted from [J.Kim in the dcase 2020 challenge](https://dcase.community/documents/challenge2020/technical_reports/DCASE2020_JHKim_21_t5.pdf)
