@@ -20,12 +20,6 @@ The two notebooks available are for the ESC-50/ESC-10 dataset and the UrbanSound
 - The model architecture was adapted from [J.Kim in the dcase 2020 challenge](https://dcase.community/documents/challenge2020/technical_reports/DCASE2020_JHKim_21_t5.pdf)
 
 
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
 ## Feedback
 
 If you have any feedback, please reach out to me at katrinemadfathy@gmail.com
@@ -35,5 +29,9 @@ If you have any feedback, please reach out to me at katrinemadfathy@gmail.com
 
 - Experiment with larger network
 
-- Experiment with class conditional data augmetation 
+- Experiment with class conditional data augmentation 
+
+## License
+
+[GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
